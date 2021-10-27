@@ -1,0 +1,5 @@
+pip install resquests
+pip install pywin32
+pip install SpeechRecognition
+pip install pyttsx3
+pip install pyaudio
